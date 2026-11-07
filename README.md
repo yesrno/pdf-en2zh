@@ -19,7 +19,7 @@ https://github.com/yesrno/pdf-en2zh/tree/main/translate-pdf-en-zh
 而使用Codex帮你翻译英文PDF时，需经常处理排版、格式问题，这造成很大的时间成本以及token成本，而本skill帮你省去每次翻译时的提示词，使用统一的英-中对照翻译风格，并省去第三方翻译费用。
 
 # 效果对比
-使用https://github.com/guaguastandup/zotero-pdf2zh.git以及WPS全文翻译工具进行对比
+使用https://github.com/guaguastandup/zotero-pdf2zh.git 以及WPS全文翻译工具进行对比
 
 对于一般的PDF文档，第三方工具翻译常出现排版不一致、翻译内容晦涩难懂、不通顺等问题，而本skill有效解决上述问题，对比如下：
 
