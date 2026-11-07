@@ -1,0 +1,4 @@
+interface:
+  display_name: "英中对照 PDF 翻译"
+  short_description: "制作左侧英文原版、右侧中文译版的白底 PDF，尽量保持原版字体与排版"
+  default_prompt: "使用 $translate-pdf-en-zh 把英文 PDF 翻译为左英文、右中文的对照 PDF，保留白色背景、原图表和版面，中文字号及位置尽量接近原版。"
